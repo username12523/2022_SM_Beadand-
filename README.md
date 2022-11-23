@@ -1,0 +1,2 @@
+# 2022_SM_Beadand-
+2022_11_23_Szoftver_És_Sql_Házi_Feladat
